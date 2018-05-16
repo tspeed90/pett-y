@@ -1,4 +1,8 @@
 # PETTYGRAM
+[See Pettygram on Heroku](https://petty-pictures.herokuapp.com/)
+
+## ABOUT THE PROJECT
+Pettygram is an anonymous photo gallery wall
 
 ## TO RUN THE PROGRAM:
 ```
@@ -29,7 +33,6 @@ $ npm run dev
 In your browser, navigate to localhost:3000! You should see something like this:
 ![home page of Pettygram](https://i.imgur.com/B5yr2Br.png)
 
-
 ## USER STORIES
 
 #### As a user:
@@ -39,9 +42,8 @@ In your browser, navigate to localhost:3000! You should see something like this:
 - I can click on a photo and see the individual photo and caption on another page
 
 ### STRETCH GOALS
-- Utilizing session-cookie module
+- Utilizing session-cookie module [DONE]
 - Photo categories
-
 
 ## THE PROCESS
 
